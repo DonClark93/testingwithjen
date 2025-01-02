@@ -35,7 +35,7 @@ Think of it this way:
 
 So add something between the curly brackets and use the git commands to add, commit, and push! 
 {
-
+this is my addition to the file
 
 }
 

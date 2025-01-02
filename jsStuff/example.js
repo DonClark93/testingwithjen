@@ -15,6 +15,6 @@ console.log("you can put strings here too!")
 //Guess what you think the next few lines will print out
 //Uncomment the next few lines and see if you are right
 
-//let newVariable = 3;
-//let vowels = "ou";
-//console.log("I <" + newVariable + " Y" + vowels)
+let newVariable = 3;
+let vowels = "ou";
+console.log("I <" + newVariable + " Y" + vowels)
